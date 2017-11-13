@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Auto Music</string>
+    <string name="play_item">Play item</string>
+    <string name="play_pause">Play or pause</string>
+    <string name="skip_previous">Skip to previous song</string>
+    <string name="skip_next">Skip to next song</string>
+    <string name="currently_playing_song">Song currently playing</string>
+    <string name="currently_playing_artist">Artist of currently playing song</string>
+    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+</resources>
